@@ -23,7 +23,7 @@
   #hero { grid-template-columns: 1fr 1fr; }
   .hero-left { padding: 3rem 1rem 3rem 1.5rem; }
   .hero-right { display: flex; justify-content: center; padding: 3rem 1.5rem 3rem 1rem; }
-  .hero-right .my-image { width: 140px; height: 200px; zoom: 200%; }
+  .hero-right .my-image { width: 200px; height: 200px; zoom: 100%; }
   section { padding: 5rem 1.5rem; }
   #poems { margin: 0 -1.5rem; padding: 5rem 1.5rem; }
   footer { padding: 2rem 1.5rem; flex-direction: column; gap: 0.5rem; text-align: center; }
